@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ChatGPT 4.0: 真的很慢"
+title:  "Microsoft 365 Copilot誕生"
 date:   2023-03-16 22:57:00 +0900
 categories: copilot
 ---
