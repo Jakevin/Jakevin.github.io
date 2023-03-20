@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "神諭是跟珍貴的"
-date:   2023-03-16 22:57:00 +0900
+date:   2023-03-20 10:38:00 +0900
 categories: chatgpt
 ---
 
