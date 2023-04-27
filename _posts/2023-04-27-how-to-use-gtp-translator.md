@@ -10,41 +10,41 @@ categories: chatgpt
 [https://jakevin.github.io/azure-tts/tanslator/](https://jakevin.github.io/azure-tts/tanslator/)
 
 ## 介面說明
-<img src="/assets/img/gpt-translator-zh-01.jpg" width="100%">
+<img src="/assets/img/gpt-translator-zh-01.jpg" width="70%">
 
 
 ## 步驟
 先選擇想要翻譯的語言
 
-<img src="/assets/img/gpt-translator-zh-05.png" width="100%">
+<img src="/assets/img/gpt-translator-zh-05.png" width="60%">
 
 
 在Please Input裡輸入你要翻譯的文字，再按下翻譯鍵
 
-<img src="/assets/img/gpt-translator-zh-02.png" width="100%">
+<img src="/assets/img/gpt-translator-zh-02.png" width="60%">
 
-<img src="/assets/img/gpt-translator-zh-03.png" width="100%">
+<img src="/assets/img/gpt-translator-zh-03.png" width="60%">
 
 或是按下麥克風後，開始說話
 
-<img src="/assets/img/gpt-translator-zh-02.png" width="100%">
+<img src="/assets/img/gpt-translator-zh-02.png" width="60%">
 
 約3~5秒後，就會得到翻譯結果
 
-<img src="/assets/img/gpt-translator-zh-04.png" width="100%">
+<img src="/assets/img/gpt-translator-zh-04.png" width="60%">
 
 更換翻譯語言後，也會立刻拿到新的答案
 
-<img src="/assets/img/gpt-translator-zh-06.png" width="100%">
+<img src="/assets/img/gpt-translator-zh-06.png" width="60%">
 
 
 ## 歷史記錄
 
 保留所有的翻譯記錄，可以在出發前先準備好你的問題，點擊後可以立刻顯示結果
 
-<img src="/assets/img/gpt-translator-zh-07.png" width="100%">
+<img src="/assets/img/gpt-translator-zh-07.png" width="70%">
 
-<img src="/assets/img/gpt-translator-zh-08.png" width="100%">
+<img src="/assets/img/gpt-translator-zh-08.png" width="60%">
 
 
 ## 目標
