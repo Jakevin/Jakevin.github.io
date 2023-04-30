@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "如何使用 GPTx旅行翻譯器"
-date:   2023-04-27 19:42:00 +0800
+date:   2023-04-30 08:42:00 +0800
 categories: chatgpt
 ---
 
@@ -11,7 +11,6 @@ categories: chatgpt
 
 ## 介面說明
 <img src="/assets/img/gpt-translator-zh-01.jpg" width="70%">
-
 
 ## 步驟
 先選擇想要翻譯的語言

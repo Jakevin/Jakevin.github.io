@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "開發過程與更新記錄"
-date:   2023-04-27 19:42:00 +0800
+date:   2023-04-30 07:42:00 +0800
 categories: chatgpt
 ---
 
