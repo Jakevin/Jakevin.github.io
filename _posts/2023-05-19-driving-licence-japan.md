@@ -74,13 +74,13 @@ categories: daily
 
 難怪【免許試験場】的食堂會有這麼高的評價，因為之前附近沒有什麼地方可以去
 
-<img src="/assets/img/2023-05-19-driving-licence-japan-04.jpg" width="60%">
+<img src="/assets/img/2023-05-19-driving-licence-japan-04.png" width="60%">
 
 不過，今年5月開始，附近的lalaport開幕了，走路10分鐘就可以到
 
-<img src="/assets/img/2023-05-19-driving-licence-japan-05.jpg" width="60%">
+<img src="/assets/img/2023-05-19-driving-licence-japan-05.png" width="60%">
 
-<img src="/assets/img/2023-05-19-driving-licence-japan-06.jpg" width="60%">
+<img src="/assets/img/2023-05-19-driving-licence-japan-06.png" width="60%">
 
 13點10，重回【免許試験場】到二樓的拍照等候區
 
@@ -98,6 +98,6 @@ categories: daily
 
 又因【門真南免許試験場】離地鐵站單程走路就要20分鐘以上，非常耗體力
 
-<img src="/assets/img/2023-05-19-driving-licence-japan-07.jpg" width="60%">
+<img src="/assets/img/2023-05-19-driving-licence-japan-07.png" width="60%">
 
 申辦前一定要看清楚當地的規則與路線，不要跟我一樣重跑兩三次...
